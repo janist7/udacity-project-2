@@ -7,6 +7,7 @@ The real project is located elswehere - https://github.com/janist7/udacity-movie
 
 ### Prerequisites
 
+#### Run for actual project, not this static content
 For usage on a local enviroment requires [jekyll](https://jekyllrb.com/).
 Then navigate to project file location and run ```jekyll serve```
 Page should be accesible at - http://localhost:4000.
