@@ -4,10 +4,10 @@
     <title>Udacity project 2</title>
     <description>Second udacity project - create portfolio website from pdf mockup, this website might benifit from a larger description.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Jul 2017 11:30:12 +0300</pubDate>
-    <lastBuildDate>Wed, 19 Jul 2017 11:30:12 +0300</lastBuildDate>
+    <link>http://localhost:4000/udacity-project-2//</link>
+    <atom:link href="http://localhost:4000/udacity-project-2//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 21 Jul 2017 11:08:04 +0300</pubDate>
+    <lastBuildDate>Fri, 21 Jul 2017 11:08:04 +0300</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 27 Jun 2017 09:54:19 +0300</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/06/27/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/06/27/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/udacity-project-2//jekyll/update/2017/06/27/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/udacity-project-2//jekyll/update/2017/06/27/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
